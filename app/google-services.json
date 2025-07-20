@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657089477993",
+    "project_id": "interestmate-6315b",
+    "storage_bucket": "interestmate-6315b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657089477993:android:79fe58d543cd646739d1f8",
+        "android_client_info": {
+          "package_name": "com.example.interestmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx552rkEvDI4ZyA1TVPl2q62jlhqDzS_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
