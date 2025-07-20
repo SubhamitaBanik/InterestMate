@@ -1,4 +1,5 @@
 📱 InterestMate
+
 A simple interest-based group chat app where users can sign up, log in, and connect with nearby people who share similar interests. Built using Firebase Authentication, Realtime Database, Kotlin and Jetpack Compose.
 
 
